@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.2",
-  "notes": "Your Release Notes go here",
+  "version": "v0.0.3",
+  "notes": "Приложение опубликовано",
   "pub_date": "2020-06-22T19:25:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVHV0WW1iMlg3TzJzQUY5Y3FIUWR5VTNDVkxKVjZTY0RqQjlZS1hZdjlCbzBSZnMzZldlQlc2NkprT1lEQis2M3Q1YWtyKzJ1NDRwZksxTVFKQUxTSFhuM2x3NGdFemd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5Nzc0NzM1CWZpbGU6UGxhbmN5XzAuMC4yX3g2NC1zZXR1cC5leGUKMStFZnFBVndjcEQ2aEJDcEpFd0l6TkRLdk13V1hEcGFBSGF0Yi9ydys2NHcvcXYvcDZlVVhKRURpNmd6SzBsVG8wYUVuOXF0ZUc0T1AzeDV4NWpRQWc9PQo=",
-      "url": "https://github.com/Prains/plancy-releasses/releases/download/tag/Plancy_0.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVHV0WW1iMlg3T3dXcDRpZi9lL01oNm0yalNCcWN2WThlamFRSjZlYnRBZDFvZDJKRjNsenFZK25IVldkeTBhcGRsbkJUZ2dSUjRvMjZyM3VtMWlRaHkrYmVTSGdta3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5Nzc3NDUyCWZpbGU6UGxhbmN5XzAuMC4zX3g2NC1zZXR1cC5leGUKQVVmVWJBWkZNWUxteElZVTVrV21BZWVSTUpORWs4RWFiQlBkdk9qRDM5bUtXK2JqaEZ1Z3VQRW5wdGR0dVlsOFNJM3ZIZm05YkVQS09mRTF3TmZGRHc9PQo==",
+      "url": "https://github.com/Prains/plancy-releasses/releases/download/tag1/Plancy_0.0.3_x64-setup.exe"
     }
   }
 }
